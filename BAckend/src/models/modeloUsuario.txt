@@ -1,0 +1,23 @@
+User.create({
+    userName: 'Bruno Braz de Paula',
+    userNickname: 'Boka',
+    userEmail: 'bbrazp@gmail.com',
+    userMobileDDD: '13',
+    userMobileNumber: '982178958',
+    userLogin: 'BrunoBraz',
+    userPass: '123123123',
+    userPais: 'Brasil',
+    userState: 'SP',
+    userCity: 'são vicente',
+    userZip: '11310-071',
+    userGender: 'Masculino',
+    userRgDoc: '272355978',
+    userCpfDoc: '31385204811',
+    userAddress: 'jacob emmerich 1233',
+    userDistrict: 'centro',
+    userComplement: 'lado par da rua',
+    userBirth_day: '19',
+    userBirth_month: '10',
+    userBirth_year: '1983',
+    userActive: true
+});

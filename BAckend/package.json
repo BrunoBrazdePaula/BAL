@@ -1,0 +1,22 @@
+{
+  "name": "baladeiro-back",
+  "version": "0.0.1",
+  "description": "Back-end do Baladeiro",
+  "main": "server.js",
+  "author": "Bruno Braz",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.15",
+    "mongoose-paginate-v2": "^1.3.14",
+    "node": "^15.2.1",
+    "require-dir": "^1.2.0"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
