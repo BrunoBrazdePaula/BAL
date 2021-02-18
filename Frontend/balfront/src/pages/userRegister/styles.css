@@ -1,0 +1,8 @@
+.user-register {
+    max-width: 700px;
+    margin: 20px auto 0;
+    padding:  20px;
+    background: #FFF;
+    border-radius: 5px;
+    border: 1px solid #DDD;
+}
